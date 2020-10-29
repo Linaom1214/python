@@ -1,4 +1,4 @@
 dependencies:
   -python=3
   —pip:
-    numpy
+  numpy
