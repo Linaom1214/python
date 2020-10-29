@@ -1,11 +1,2 @@
 dependencies:
   -python=3
-  -pip:
-    -spacy
-    -ipykernel
-    -scipy
-    -numpy
-    -matplotlib
-    -pandas
-    -tensorflow
-    -thinc
